@@ -75,14 +75,7 @@ color: #003333;
 }
 
 .ASDF{
-  border: 5px;
-  background-color: #92DFF3;
-  padding: 10px;
-  border-radius: 0;
-  color: #003333;
-  border-style: inset;
-  text-align: center;
-
+  border-collapse: collapse;
 }
 .IAP{
   border: 5px;
