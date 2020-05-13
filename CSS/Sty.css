@@ -71,8 +71,22 @@ color: #003333;
   padding: 20px;
   border-radius: 0;
   color: #003333;
-  margin: 130px;
   border-style: outset;
+}
+
+.ASDF{
+
+}
+.IAP{
+  border: 5px;
+  background-color: #92DFF3;
+  padding: 10px;
+  border-radius: 0;
+  color: #003333;
+  border-style: outset;
+  text-align: center;
+
+
 }
 
 .CLOUD{
