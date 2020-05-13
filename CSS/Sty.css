@@ -19,6 +19,7 @@ color: #003333;
 
 .NewTable{
   border-collapse: collapse;
+  border-style: none;
 }
 
 .NTR{
@@ -529,4 +530,41 @@ h5
 
 .TCS{
   width: 80%;
+}
+
+.Updated2{
+  border-radius: 50%;
+  height: 40px;
+  width: 40px;
+}
+
+.Updated3{
+  border-radius: 50%;
+  height: 40px;
+  width: 40px;
+}
+.Updated1{
+  border-radius: 50%;
+  height: 35px;
+  width: 35px;
+}
+
+.Last{
+  background-color: #2C3E50;
+  color: white;
+  padding: 10px;
+}
+
+.CDO{
+  color: white;
+}
+
+.HIREME{
+  border-radius: 10px;
+
+  width: 130px;
+  height: 40px;
+}
+.F{
+  margin-bottom: 50px;
 }
