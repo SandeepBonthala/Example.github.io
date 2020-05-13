@@ -38,7 +38,7 @@ color: #003333;
 }
 
 .Onea:link, .Onea:visited {
-  background-color: #003333;
+  background-color: #009797;
   color: white;
   padding: 5px 10px;
   text-align: center;
@@ -445,10 +445,8 @@ h4
 h5
 {
   font-family: 'Satisfy';font-size: 100px;
-  margin-left: 500px;
-  margin-top: 150px;
   color: #003333;
-  width: 80px;
+  width: 80%;
 }
 
 .MAIL{
